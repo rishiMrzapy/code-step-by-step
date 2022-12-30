@@ -1,0 +1,23 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "A node js tutorial",
+  "main": "Fxns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mr",
+    "z"
+  ],
+  "author": "Vinod Rishi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "console-log-colors": "^0.3.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
